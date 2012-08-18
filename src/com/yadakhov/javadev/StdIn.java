@@ -3,7 +3,6 @@ package com.yadakhov.javadev;
 /**
  * Reads in data of various types from standard input.
  */
-
 import java.io.BufferedInputStream;
 import java.util.Locale;
 import java.util.Scanner;
